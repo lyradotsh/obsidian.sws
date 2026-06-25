@@ -1,9 +1,7 @@
 # Spider-Web-Structure
 
 >[!note]
->Directories: another name for folders
->MOC: short for Maps of Content
->QOL: short for Quality of Life
+>Directories: another name for folders, MOC: short for Maps of Content, QOL: short for Quality of Life
 
 The sws method utilizes three main directories; `nav`, `notes` and `store` each directory serves a specific purpose.
 
@@ -72,7 +70,7 @@ Within each of the three main directories there's only _one_ nested directory pe
     │   ├── fork.canvas
     │   ├── spoon.canvas
     │   └── spork.canvas
-    ├── media (file `.{jpg,jpeg,png,pdf,etc}`)
+    ├── media (files `.{jpg,jpeg,png,pdf,etc}`)
     └── templates (templates are the only `.md / markdown` file in `store`)
         ├── daily.md
         ├── linux.md
@@ -100,7 +98,7 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 #### Things To Note
 
-> Default location for specific notes:
+> Default location for specific notes and files:
 
 - Settings -> Files and links -> Default location for new notes (Choose in the folder specified below) -> Folder to create new notes in -> enter `notes/nest`
 - Settings -> Files and links -> Default location for new attachments (Choose In the folder specified below) -> Attachment folder path -> enter `store/media`
