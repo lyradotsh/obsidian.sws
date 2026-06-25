@@ -24,7 +24,7 @@ Within each of the three main directories there's only _one_ nested directory pe
 ```markdown
 . (your obsidian vault)
 ├── README.md
-└── nav (moc)
+├── nav (moc)
 |   ├── aliases.md
 |   ├── notes.md
 |   ├── store.md
