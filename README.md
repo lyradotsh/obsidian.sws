@@ -99,24 +99,24 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > Default location for specific notes and files:
 
-- Settings -> Files and links -> Default location for new notes (Choose in the folder specified below) -> Folder to create new notes in -> enter `notes/nest`
-- Settings -> Files and links -> Default location for new attachments (Choose In the folder specified below) -> Attachment folder path -> enter `store/media`
-- Settings -> Canvas -> Default location for new canvas files -> In the folder specified below -> Folder to create new canvas files in -> enter `store/canvas`
-- Settings -> Daily notes -> New file location -> enter `notes/daily`
-- Settings -> Daily notes -> Template file location -> enter `store/templates/daily`
-- Settings -> Templates -> Template folder location -> enter `store/templates`
-- Settings -> Web viewer -> Save page folder -> enter `notes/web`
+- Settings > Files and links > Default location for new notes (Choose in the folder specified below) > Folder to create new notes in > enter `notes/nest`
+- Settings > Files and links > Default location for new attachments (Choose In the folder specified below) > Attachment folder path > enter `store/media`
+- Settings > Canvas > Default location for new canvas files > In the folder specified below > Folder to create new canvas files in > enter `store/canvas`
+- Settings > Daily notes > New file location > enter `notes/daily`
+- Settings > Daily notes > Template file location > enter `store/templates/daily`
+- Settings > Templates > Template folder location > enter `store/templates`
+- Settings > Web viewer > Save page folder > enter `notes/web`
 
 #### QOL Changes
 
 > Some qol changes you might find useful:
 
-- Settings -> Editor -> Display -> Readable line length (Toggle on, tldr: notes will span the entire page length instead of center placement)
-- Settings -> Editor -> Display -> Line numbers (Toggle on, tldr: displays line numbers on the left of the page)
-- Settings -> Core plugins -> Slash commands (Toggle on, tldr: if you type / it gives a drop down menu of commands)
-- Settings -> Core plugins -> Web viewer (Toggle on, tldr: you can search the web inside obsidian and save notes directly to your vault)
+- Settings > Editor > Display > Readable line length (Toggle on, tldr: notes will span the entire page length instead of center placement)
+- Settings > Editor > Display > Line numbers (Toggle on, tldr: displays line numbers on the left of the page)
+- Settings > Core plugins > Slash commands (Toggle on, tldr: if you type / it gives a drop down menu of commands)
+- Settings > Core plugins > Web viewer (Toggle on, tldr: you can search the web inside obsidian and save notes directly to your vault)
 
 > CLI/Terminal specific qol changes:
 
-- Settings -> General -> Command line interface (Toggle on, tldr: you can use obsidian via the cli/terminal)
-- Settings -> Files and links -> Advanced -> Allow URI callbacks (Toggle on, tldr: useful for opening vaults via the cli/terminal)
+- Settings > General > Command line interface (Toggle on, tldr: you can use obsidian via the cli/terminal)
+- Settings > Files and links > Advanced > Allow URI callbacks (Toggle on, tldr: useful for opening vaults via the cli/terminal)
