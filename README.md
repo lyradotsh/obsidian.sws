@@ -25,46 +25,46 @@ Within each of the three main directories there's only _one_ nested directory pe
 . (your obsidian vault)
 ├── README.md
 └── nav (moc)
-    ├── aliases.md
-    ├── notes.md
-    ├── store.md
-    ├── aliases (moc / same as notes, but for aliases)
-    │   ├── aliases-daily.md
-    │   ├── aliases-langs.md
-    │   ├── aliases-nest.md
-    │   ├── aliases-tech.md
-    │   └── aliases-web.md
-    ├── notes
-    │   ├── notes-daily.md
-    │   ├── notes-langs.md
-    │   ├── notes-nest.md
-    │   ├── notes-tech.md
-    │   └── notes-web.md
-    └── store (moc / for notes)
-        ├── store-canvas.md
-        ├── store-media.md
-        └── store-templates.md
-└── notes (only one nested directory per topic w/ notes only)
-    ├── daily (topic)
-    │   ├── 01-01-2026.md (note inside topic)
-    │   ├── 02-02-2026.md
-    │   └── 03-03-2026.md
-    ├── langs
-    │   ├── french.md
-    │   ├── german.md
-    │   └── spanish.md
-    ├── nest
-    │   ├── random.md
-    │   ├── things.md
-    │   └── wow.md
-    ├── tech
-    │   ├── hardware.md
-    │   ├── programming.md
-    │   └── software.md
-    └── web
-        ├── site.md
-        ├── sites.md
-        └── siting.md
+|   ├── aliases.md
+|   ├── notes.md
+|   ├── store.md
+|   ├── aliases (moc / same as notes, but for aliases)
+|   │   ├── aliases-daily.md
+|   │   ├── aliases-langs.md
+|   │   ├── aliases-nest.md
+|   │   ├── aliases-tech.md
+|   │   └── aliases-web.md
+|   ├── notes
+|   │   ├── notes-daily.md
+|   │   ├── notes-langs.md
+|   │   ├── notes-nest.md
+|   │   ├── notes-tech.md
+|   │   └── notes-web.md
+|   └── store (moc / for notes)
+|       ├── store-canvas.md
+|       ├── store-media.md
+|       └── store-templates.md
+├── notes (only one nested directory per topic w/ notes only)
+|   ├── daily (topic)
+|   │   ├── 01-01-2026.md (note inside topic)
+|   │   ├── 02-02-2026.md
+|   │   └── 03-03-2026.md
+|   ├── langs
+|   │   ├── french.md
+|   │   ├── german.md
+|   │   └── spanish.md
+|   ├── nest
+|   │   ├── random.md
+|   │   ├── things.md
+|   │   └── wow.md
+|   ├── tech
+|   │   ├── hardware.md
+|   │   ├── programming.md
+|   │   └── software.md
+|   └── web
+|       ├── site.md
+|       ├── sites.md
+|       └── siting.md
 └── store (files)
     ├── canvas (files `.canvas`)
     │   ├── fork.canvas
@@ -75,7 +75,6 @@ Within each of the three main directories there's only _one_ nested directory pe
         ├── daily.md
         ├── linux.md
         └── random.md
-
 ```
 
 ### Note Structure
