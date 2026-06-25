@@ -116,7 +116,7 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 - Settings > Core plugins > Slash commands (Toggle on, tldr: if you type / it gives a drop down menu of commands)
 - Settings > Core plugins > Web viewer (Toggle on, tldr: you can search the web inside obsidian and save notes directly to your vault)
 
-> CLI/Terminal specific qol changes:
+> CLI/ Terminal specific qol changes:
 
-- Settings > General > Command line interface (Toggle on, tldr: you can use obsidian via the cli/terminal)
-- Settings > Files and links > Advanced > Allow URI callbacks (Toggle on, tldr: useful for opening vaults via the cli/terminal)
+- Settings > General > Command line interface (Toggle on, tldr: you can use obsidian via the cli/ terminal)
+- Settings > Files and links > Advanced > Allow URI callbacks (Toggle on, tldr: useful for opening vaults via the cli/ terminal)
