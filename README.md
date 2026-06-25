@@ -34,13 +34,13 @@ Within each of the three main directories there's only _one_ nested directory pe
 |   │   ├── aliases-nest.md
 |   │   ├── aliases-tech.md
 |   │   └── aliases-web.md
-|   ├── notes
+|   ├── notes (moc / for notes)
 |   │   ├── notes-daily.md
 |   │   ├── notes-langs.md
 |   │   ├── notes-nest.md
 |   │   ├── notes-tech.md
 |   │   └── notes-web.md
-|   └── store (moc / for notes)
+|   └── store (moc / for store)
 |       ├── store-canvas.md
 |       ├── store-media.md
 |       └── store-templates.md
