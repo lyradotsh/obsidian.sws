@@ -1,4 +1,4 @@
-# Spider-Web-Structure
+# Obsidian Spider-Web-Structure
 
 >[!note]
 >Directories: another name for folders, MOC: short for Maps of Content, QOL: short for Quality of Life
