@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6657b83d94beda0",
+            "id": "b50d133fbd910d99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -183,16 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6657b83d94beda0",
+  "active": "b50d133fbd910d99",
   "lastOpenFiles": [
     "README.md",
+    "assets/screenshot.png",
+    "nav/aliases.md",
+    "assets",
+    "notes/web/sites.md",
     "store/templates/linux.md",
     "store/templates/daily.md",
     "store/canvas/spork.canvas",
     "store/canvas/spoon.canvas",
     "store/canvas/fork.canvas",
     "notes/web/siting.md",
-    "notes/web/sites.md",
     "notes/web/site.md",
     "notes/tech/software.md",
     "notes/tech/programming.md",
@@ -208,7 +207,6 @@
     "notes/daily/01-01-2026.md",
     "store/templates/random.md",
     "nav/aliases/aliases-web.md",
-    "nav/aliases.md",
     "nav/store/store-canvas.md",
     "nav/aliases/aliases-nest.md",
     "nav/notes.md",
