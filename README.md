@@ -20,7 +20,7 @@ The `notes` directory stores all your markdown notes, with the exception of temp
 The `store` directory stores all files `canvas`, `media` (images, documents, etc.) the only exception for markdown notes is the `templates` directory.
 
 >[!warning]
->When cloning or downloading the github repo be sure to delete `assets` and `README.md` (after reading) as they're irrelevant to the >obsidian vault.
+>When cloning or downloading the github repo be sure to delete `assets` and `README.md` (after reading) as they're irrelevant to the obsidian vault.
 
 ### Directory Structure
 
