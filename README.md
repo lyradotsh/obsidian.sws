@@ -1,5 +1,7 @@
 # Obsidian Spider-Web-Structure
 
+![Screenshot](assets/screenshot.png)
+
 >[!note]
 >Directories: another name for folders, MOC: short for Maps of Content, QOL: short for Quality of Life
 
