@@ -83,7 +83,7 @@ Within each of the three main directories there's only _one_ nested directory pe
 
 ### Note Structure
 
-Within each note will have an example of how the properties are used (the example below is the non rendered example in obsidian's source mode)
+> Within each note will have an example of how the properties are used (the example below is the non rendered example in obsidian's source mode)
 
 ```markdown
 ---
