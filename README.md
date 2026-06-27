@@ -99,6 +99,10 @@ Each note is linked back to its topic in their related nav file, in this case `n
 This note is also linked again, but in the `aliases-daily` file, for Aliases, you can choose any amount of alternate names or name format.
 ```
 
+> The default render of properties in obsidian
+
+![Screenshot](assets/properties.png)
+
 #### Things To Note
 
 > Default location for specific notes and files:
