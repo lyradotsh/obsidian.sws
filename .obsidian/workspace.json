@@ -11,10 +11,14 @@
             "id": "b50d133fbd910d99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -181,6 +185,10 @@
   },
   "active": "b50d133fbd910d99",
   "lastOpenFiles": [
+    "README.md~",
+    "assets/properties.png",
+    "notes/daily/01-01-2026.md",
+    "assets/properties-rendered.png",
     "README.md",
     "assets/screenshot.png",
     "nav/aliases.md",
@@ -204,7 +212,6 @@
     "notes/langs/french.md",
     "notes/daily/03-03-2026.md",
     "notes/daily/02-02-2026.md",
-    "notes/daily/01-01-2026.md",
     "store/templates/random.md",
     "nav/aliases/aliases-web.md",
     "nav/store/store-canvas.md",
