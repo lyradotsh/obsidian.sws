@@ -103,9 +103,9 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 ![Screenshot](assets/properties.png)
 
-#### Things To Note
+#### Default File Locations
 
-> Default location for specific notes and files:
+> Notes and files location:
 
 - Settings > Files and links > Default location for new notes (Choose in the folder specified below) > Folder to create new notes in > enter `notes/nest`
 - Settings > Files and links > Default location for new attachments (Choose In the folder specified below) > Attachment folder path > enter `store/media`
