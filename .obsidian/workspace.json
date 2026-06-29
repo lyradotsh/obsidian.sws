@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "f28da89f47f6ae2d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -185,11 +195,11 @@
   },
   "active": "b50d133fbd910d99",
   "lastOpenFiles": [
+    "README.md",
     "README.md~",
     "assets/properties.png",
     "notes/daily/01-01-2026.md",
     "assets/properties-rendered.png",
-    "README.md",
     "assets/screenshot.png",
     "nav/aliases.md",
     "assets",
