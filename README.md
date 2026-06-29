@@ -130,7 +130,7 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > CLI/ Terminal specific qol changes:
 
-| Settings                      | Toggle On              | Use Case                                                                                            |
-| ----------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
-| General                       | Command line interface | Using obsidian via the cli/ terminal                                                                |
-| Files and links<br>└ Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
+| Settings                    | Toggle On              | Use Case                                                                                            |
+| --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
+| General                     | Command line interface | Using obsidian via the cli/ terminal                                                                |
+| Files and links<br>└ Adv... | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
