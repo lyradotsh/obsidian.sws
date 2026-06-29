@@ -24,7 +24,7 @@ The `store` directory stores all files `canvas`, `media` (images, documents, etc
 
 ### Directory Structure
 
-Within each of the three main directories there's only _one_ nested directory per topic, for e.g
+Within each of the three main directories there's only _one_ nested directory per topic, e.g
 
 ```markdown
 . (your obsidian vault)
@@ -107,28 +107,30 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > Notes and files location:
 
-- Settings > Files and links > Default location for new notes (Choose in the folder specified below) > Folder to create new notes in > enter `notes/nest`
-- Settings > Files and links > Default location for new attachments (Choose In the folder specified below) > Attachment folder path > enter `store/media`
-- Settings > Canvas > Default location for new canvas files > In the folder specified below > Folder to create new canvas files in > enter `store/canvas`
-- Settings > Daily notes > New file location > enter `notes/daily`
-- Settings > Daily notes > Template file location > enter `store/templates/daily`
-- Settings > Templates > Template folder location > enter `store/templates`
-- Settings > Web viewer > Save page folder > enter `notes/web`
+| Settings        | Default Locations                                                                                  | Enter Path              |
+| --------------- | -------------------------------------------------------------------------------------------------- | ----------------------- |
+| Files and links | For new notes<br>└─In the folder specified below<br> └─Folder to create new notes in               | `notes/nest`            |
+| Files and links | For new attachments<br>└─In the folder specified below<br> └─Attachment folder path                | `store/media`           |
+| Canvas          | For new canvas files<br>└─In the folder specified below<br> └─Folder to create new canvas files in | `store/canvas`          |
+| Daily notes     | New file location                                                                                  | `notes/daily`           |
+| Daily notes     | Template file location                                                                             | `store/templates/daily` |
+| Templates       | Template folder location                                                                           | `store/templates`       |
+| Web viewer      | Save page folder                                                                                   | `notes/web`             |
 
 #### QOL Changes
 
 > Some qol changes you might find useful:
 
-| Settings           | Toggle On            | Use Case                                                                                         |
-| ------------------ | -------------------- | ------------------------------------------------------------------------------------------------ |
-| Editor<br>└Display | Readable line length | Notes will span the entire page length instead of center placement                               |
-| Editor<br>└Display | Line numbers         | Displays line numbers on the left of the page                                                    |
-| Core plugins       | Slash commands       | Typing **/** followed by a command will give a context menu of available commands, e.g `/insert` |
-| Core plugins       | Web Viewer           | Search the web inside obsidian and save notes directly to your vault                             |
+| Settings            | Toggle On            | Use Case                                                                                         |
+| ------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| Editor<br>└─Display | Readable line length | Notes will span the entire page length instead of center placement                               |
+| Editor<br>└─Display | Line numbers         | Displays line numbers on the left of the page                                                    |
+| Core plugins        | Slash commands       | Typing **/** followed by a command will give a context menu of available commands, e.g `/insert` |
+| Core plugins        | Web Viewer           | Search the web inside obsidian and save notes directly to your vault                             |
 
 > CLI/ Terminal specific qol changes:
 
-| Settings                   | Toggle On              | Use Case                                                                                            |
-| -------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
-| General                    | Command line interface | Using obsidian via the cli/ terminal                                                                |
-| Files & Links<br>└Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
+| Settings                      | Toggle On              | Use Case                                                                                            |
+| ----------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
+| General                       | Command line interface | Using obsidian via the cli/ terminal                                                                |
+| Files and links<br>└─Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
