@@ -107,15 +107,15 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > Notes and files location:
 
-| Settings        | Default Locations                                                                                  | Enter Path              |
-| --------------- | -------------------------------------------------------------------------------------------------- | ----------------------- |
-| Files and links | For new notes<br>└─In the folder specified below<br> └─Folder to create new notes in               | `notes/nest`            |
-| Files and links | For new attachments<br>└─In the folder specified below<br> └─Attachment folder path                | `store/media`           |
-| Canvas          | For new canvas files<br>└─In the folder specified below<br> └─Folder to create new canvas files in | `store/canvas`          |
-| Daily notes     | New file location                                                                                  | `notes/daily`           |
-| Daily notes     | Template file location                                                                             | `store/templates/daily` |
-| Templates       | Template folder location                                                                           | `store/templates`       |
-| Web viewer      | Save page folder                                                                                   | `notes/web`             |
+| Settings        | Default Locations                                                                                   | Enter Path              |
+| --------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |
+| Files and links | For new notes<br>├─ In the folder specified below<br>└─ Folder to create new notes in               | `notes/nest`            |
+| Files and links | For new attachments<br>├─ In the folder specified below<br>└─ Attachment folder path                | `store/media`           |
+| Canvas          | For new canvas files<br>├─ In the folder specified below<br>└─ Folder to create new canvas files in | `store/canvas`          |
+| Daily notes     | New file location                                                                                   | `notes/daily`           |
+| Daily notes     | Template file location                                                                              | `store/templates/daily` |
+| Templates       | Template folder location                                                                            | `store/templates`       |
+| Web viewer      | Save page folder                                                                                    | `notes/web`             |
 
 #### QOL Changes
 
@@ -123,8 +123,8 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 | Settings            | Toggle On            | Use Case                                                                                         |
 | ------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
-| Editor<br>└─Display | Readable line length | Notes will span the entire page length instead of center placement                               |
-| Editor<br>└─Display | Line numbers         | Displays line numbers on the left of the page                                                    |
+| Editor<br>└ Display | Readable line length | Notes will span the entire page length instead of center placement                               |
+| Editor<br>└ Display | Line numbers         | Displays line numbers on the left of the page                                                    |
 | Core plugins        | Slash commands       | Typing **/** followed by a command will give a context menu of available commands, e.g `/insert` |
 | Core plugins        | Web Viewer           | Search the web inside obsidian and save notes directly to your vault                             |
 
@@ -133,4 +133,4 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 | Settings                      | Toggle On              | Use Case                                                                                            |
 | ----------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | General                       | Command line interface | Using obsidian via the cli/ terminal                                                                |
-| Files and links<br>└─Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
+| Files and links<br>└ Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
