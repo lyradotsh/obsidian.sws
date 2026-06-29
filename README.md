@@ -107,15 +107,15 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > Notes and files location:
 
-| Settings        | Default Locations                                                                                   | Enter Path              |
-| --------------- | --------------------------------------------------------------------------------------------------- | ----------------------- |
-| Files and links | For new notes<br>├─ In the folder specified below<br>└─ Folder to create new notes in               | `notes/nest`            |
-| Files and links | For new attachments<br>├─ In the folder specified below<br>└─ Attachment folder path                | `store/media`           |
-| Canvas          | For new canvas files<br>├─ In the folder specified below<br>└─ Folder to create new canvas files in | `store/canvas`          |
-| Daily notes     | New file location                                                                                   | `notes/daily`           |
-| Daily notes     | Template file location                                                                              | `store/templates/daily` |
-| Templates       | Template folder location                                                                            | `store/templates`       |
-| Web viewer      | Save page folder                                                                                    | `notes/web`             |
+| Settings        | Default Locations                                                                                 | Enter Path              |
+| --------------- | ------------------------------------------------------------------------------------------------- | ----------------------- |
+| Files and links | For new notes<br>├ In the folder specified below<br>└ Folder to create new notes in               | `notes/nest`            |
+| Files and links | For new attachments<br>├ In the folder specified below<br>└ Attachment folder path                | `store/media`           |
+| Canvas          | For new canvas files<br>├ In the folder specified below<br>└ Folder to create new canvas files in | `store/canvas`          |
+| Daily notes     | New file location                                                                                 | `notes/daily`           |
+| Daily notes     | Template file location                                                                            | `store/templates/daily` |
+| Templates       | Template folder location                                                                          | `store/templates`       |
+| Web viewer      | Save page folder                                                                                  | `notes/web`             |
 
 #### QOL Changes
 
