@@ -119,14 +119,16 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > Some qol changes you might find useful:
 
-- Settings > Editor > Display > Readable line length (Toggle on, tldr: notes will span the entire page length instead of center placement)
-- Settings > Editor > Display > Line numbers (Toggle on, tldr: displays line numbers on the left of the page)
-- Settings > Core plugins > Slash commands (Toggle on, tldr: if you type / it gives a drop down menu of commands)
-- Settings > Core plugins > Web viewer (Toggle on, tldr: you can search the web inside obsidian and save notes directly to your vault)
+| Settings            | Toggle On            | Use Case                                                                                         |
+| ------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| Editor<br>└─Display | Readable line length | Notes will span the entire page length instead of center placement                               |
+| Editor<br>└─Display | Line numbers         | Displays line numbers on the left of the page                                                    |
+| Core plugins        | Slash commands       | Typing **/** followed by a command will give a context menu of available commands, e.g `/insert` |
+| Core plugins        | Web Viewer           | Search the web inside obsidian and save notes directly to your vault                             |
 
 > CLI/ Terminal specific qol changes:
 
-| Settings                    | Toggle on              | Use Case                                                                                            |
+| Settings                    | Toggle On              | Use Case                                                                                            |
 | --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- |
 | General                     | Command line interface | Using obsidian via the cli/ terminal                                                                |
 | Files & Links<br>└─Advanced | Allow URI Callbacks    | Opening obsidian vaults via the cli / terminal, e.g `xdg-open "obsidian://open?vault=obsidian.sws"` |
