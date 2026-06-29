@@ -126,5 +126,6 @@ This note is also linked again, but in the `aliases-daily` file, for Aliases, yo
 
 > CLI/ Terminal specific qol changes:
 
-- Settings > General > Command line interface (Toggle on, tldr: you can use obsidian via the cli/ terminal)
-- Settings > Files and links > Advanced > Allow URI callbacks (Toggle on, tldr: useful for opening vaults via the cli/ terminal)
+| Settings > General                  | Command line interface (Toggle on) | Use case: Using obsidian via the cli/ terminal                |
+| ----------------------------------- | ---------------------------------- | ------------------------------------------------------------- |
+| Settings > Files & Links > Advanced | Allow URI Callbacks (Toggle on)    | Use case: Opening obsidian vaults via the cli / terminal, e.g |
